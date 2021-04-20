@@ -48,14 +48,3 @@ h1 {
     margin: .67em 0;
 }
 user agent stylesheet
-h1 {
-    font-size: 2em;
-    font-weight: bold;
-}
-
-
-html {
-    font-family: sans-serif;
-    -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%;
-}
